@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56272339281",
+    "firebase_url": "https://inventory-7b604.firebaseio.com",
+    "project_id": "inventory-7b604",
+    "storage_bucket": "inventory-7b604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56272339281:android:dbdabdcb16f23585",
+        "android_client_info": {
+          "package_name": "com.nprotech.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56272339281-3v95nt0o9j8s1e682tldntljc5qc2s7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuA6VkPIwe81kCyIhlUmOlMAP2MyUaMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56272339281-3v95nt0o9j8s1e682tldntljc5qc2s7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
